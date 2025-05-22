@@ -29,9 +29,9 @@ Email válido para certificação SSL
 
 ## Consultoria e contato:
 
-    CANAL VEM FAZER LTDA
+    Agradecimentos ao 
 
-    Fone: 81 99627-7285(WhatsApp)
+    Canal Vem Fazer
 
 
 ## Se o conteúdo te ajudou ajude este projeto:
@@ -40,14 +40,14 @@ Email válido para certificação SSL
 
   <div align="center">
     <h3>Ajude com qualquer valor</h3>
-  <a href="https://nubank.com.br/pagar/1j4x3i/qA4jW8n5WR" target="_blank" rel="noopener noreferrer">
+  <a href="link do qrcode" target="_blank" rel="noopener noreferrer">
     <img src="https://imgur.com/CQPHUBB.gif" style="width: 50% !important;">
   </a>
 </div>
 
 Copia e cola:
 
-    00020126360014BR.GOV.BCB.PIX0114+55819962772855204000053039865802BR5924Raphael Batista da silva6009SAO PAULO610805409000622305190WFy6iqYAgBMQNdtcgc630407B3
+    cole a chave aqui
     
 
 
