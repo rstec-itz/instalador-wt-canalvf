@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Canal Vem Fazer</h1>
-<img src="https://imgur.com/N9LGCka.gif" />
+<h1 align="center">🚀 SuportZap </h1>
+<img src="link da figura" />
 <h1 align="center">Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp.</h1> 
 
 
@@ -8,7 +8,7 @@
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
 
 ```bash
-sudo apt install -y git && git clone https://github.com/canalvemfazer/instalador install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/rstec-itz/instalador-wt-canalvf install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
 ```
 
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
